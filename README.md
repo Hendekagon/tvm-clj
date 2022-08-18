@@ -85,6 +85,10 @@ instructive to work with.
 
 * [background theoretical documentation](topics/background.md)
 
+## Using with deps.edn
+
+Add the `:java` alias to your REPL
+
 
 ## License
 
